@@ -21,6 +21,6 @@ console.log(String(a)+Number(b))
 console.log(String(a)*Number(b))
 console.log(5%3*Number(a)) 
 console.log(4%2) 
-console.log(String(a)-String(b))
+console.log(String(a)-String(b));
 console.log(2-true);
 
